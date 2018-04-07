@@ -1,0 +1,19 @@
+@font-face {
+			font-family: "BarkentinaRegular";
+			src: url("../fonts/BarkentinaRegular/BarkentinaRegular.eot");
+			src: url("../fonts/BarkentinaRegular/BarkentinaRegular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/BarkentinaRegular/BarkentinaRegular.woff") format("woff"),
+			url("../fonts/BarkentinaRegular/BarkentinaRegular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+	@font-face {
+			font-family: "ArsenalRegular";
+			src: url("../fonts/ArsenalRegular/ArsenalRegular.eot");
+			src: url("../fonts/ArsenalRegular/ArsenalRegular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/ArsenalRegular/ArsenalRegular.woff") format("woff"),
+			url("../fonts/ArsenalRegular/ArsenalRegular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
